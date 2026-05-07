@@ -1,0 +1,10 @@
+/home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/ShopApplication.java
+/home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/controller/ProductController.java
+/home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/dto/product/ProductRequest.java
+/home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/dto/product/ProductResponse.java
+/home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/exception/GlobalExceptionHandler.java
+/home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/exception/NotFoundException.java
+/home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/mapper/ProductMapper.java
+/home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/model/Product.java
+/home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/repository/ProductRepository.java
+/home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/service/ProductService.java

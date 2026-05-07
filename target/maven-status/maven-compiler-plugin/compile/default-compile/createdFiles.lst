@@ -1,0 +1,13 @@
+project/shop/ShopApplication.class
+project/shop/dto/product/ProductResponse.class
+project/shop/model/Product$ProductBuilder.class
+project/shop/exception/NotFoundException.class
+project/shop/dto/product/ProductResponse$ProductResponseBuilder.class
+project/shop/repository/ProductRepository.class
+project/shop/exception/GlobalExceptionHandler.class
+project/shop/controller/ProductController.class
+project/shop/mapper/ProductMapper.class
+project/shop/dto/product/ProductRequest.class
+project/shop/dto/product/ProductRequest$ProductRequestBuilder.class
+project/shop/service/ProductService.class
+project/shop/model/Product.class
