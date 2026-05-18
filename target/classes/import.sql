@@ -1,0 +1,10 @@
+INSERT INTO products (name, description, price, stock) VALUES ('iPhone 15 Pro', 'Flagowy smartfon Apple z procesorem A17 Pro i tytanową obudową.', 4999.00, 50);
+INSERT INTO products (name, description, price, stock) VALUES ('Samsung Galaxy S24', 'Najnowszy smartfon Samsunga z zaawansowanymi funkcjami AI.', 3599.00, 65);
+INSERT INTO products (name, description, price, stock) VALUES ('Sony WH-1000XM5', 'Bezprzewodowe słuchawki z najlepszą na rynku redukcją szumów.', 1399.00, 30);
+INSERT INTO products (name, description, price, stock) VALUES ('MacBook Air M3', 'Niezwykle lekki i wydajny laptop z najnowszym czipem Apple M3.', 5499.00, 20);
+INSERT INTO products (name, description, price, stock) VALUES ('Nintendo Switch OLED', 'Konsola hybrydowa z pięknym ekranem OLED dla graczy w każdym wieku.', 1649.00, 45);
+INSERT INTO products (name, description, price, stock) VALUES ('Keychron K2', 'Kompaktowa klawiatura mechaniczna idealna do programowania i pisania.', 450.00, 100);
+INSERT INTO products (name, description, price, stock) VALUES ('Logitech MX Master 3S', 'Ergonomiczna mysz dla profesjonalistów z cichymi kliknięciami i 8k DPI.', 429.00, 80);
+INSERT INTO products (name, description, price, stock) VALUES ('Dell UltraSharp 27', 'Monitor 4K z doskonałym odwzorowaniem barw, idealny do pracy kreatywnej.', 2899.00, 15);
+INSERT INTO products (name, description, price, stock) VALUES ('Kindle Paperwhite', 'Najpopularniejszy czytnik e-booków z podświetleniem i odpornością na wodę.', 799.00, 120);
+INSERT INTO products (name, description, price, stock) VALUES ('Apple Watch Series 9', 'Zaawansowany zegarek fitness z funkcją Double Tap i jasnym ekranem.', 1999.00, 40);

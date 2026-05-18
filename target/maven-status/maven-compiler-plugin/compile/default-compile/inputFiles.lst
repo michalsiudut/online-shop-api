@@ -1,7 +1,10 @@
 /home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/ShopApplication.java
+/home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/config/SecurityConfig.java
 /home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/controller/CartController.java
 /home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/controller/OrderController.java
 /home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/controller/ProductController.java
+/home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/dto/auth/LoginRequest.java
+/home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/dto/auth/RegisterRequest.java
 /home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/dto/cart/AddToCartRequest.java
 /home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/dto/cart/CartItemResponse.java
 /home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/dto/cart/CartResponse.java
@@ -21,6 +24,8 @@
 /home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/model/Order.java
 /home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/model/OrderItem.java
 /home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/model/Product.java
+/home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/model/Role.java
+/home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/model/User.java
 /home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/repository/CartRepository.java
 /home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/repository/OrderRepository.java
 /home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/repository/ProductRepository.java
