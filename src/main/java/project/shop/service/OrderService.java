@@ -26,6 +26,7 @@ public class OrderService {
     private final OrderRepository orderRepository;
     private final CartRepository cartRepository;
     private final OrderMapper orderMapper;
+    private final org.springframework.context.ApplicationEventPublisher eventPublisher;
 
     @Transactional
     public OrderResponse createFromCart(Long userId, OrderRequest request) {
@@ -72,6 +73,10 @@ public class OrderService {
         // Clear cart after order is placed
         cart.getItems().clear();
         cartRepository.save(cart);
+
+        // Publish Event
+        eventPublisher.publishEvent(
+                new project.shop.event.OrderPlacedEvent(savedOrder.getId(), userId, savedOrder.getTotalAmount()));
 
         return orderMapper.toResponse(savedOrder);
     }

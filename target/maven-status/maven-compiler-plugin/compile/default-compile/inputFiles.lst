@@ -13,6 +13,8 @@
 /home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/dto/order/OrderResponse.java
 /home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/dto/product/ProductRequest.java
 /home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/dto/product/ProductResponse.java
+/home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/event/OrderEventListener.java
+/home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/event/OrderPlacedEvent.java
 /home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/exception/BadRequestException.java
 /home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/exception/GlobalExceptionHandler.java
 /home/michal/PROJECTS/online-shop-api/src/main/java/project/shop/exception/NotFoundException.java
