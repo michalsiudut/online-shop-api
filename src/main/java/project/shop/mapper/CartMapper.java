@@ -50,6 +50,7 @@ public class CartMapper {
                 .quantity(item.getQuantity())
                 .unitPrice(unitPrice)
                 .totalPrice(totalPrice)
+                .imageUrl(item.getProduct().getImageUrl())
                 .build();
     }
 }

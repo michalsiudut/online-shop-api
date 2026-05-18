@@ -18,6 +18,7 @@ public class ProductMapper {
                 .description(request.getDescription())
                 .price(request.getPrice())
                 .stock(request.getStock())
+                .imageUrl(request.getImageUrl())
                 .build();
     }
 
@@ -32,6 +33,7 @@ public class ProductMapper {
                 .description(entity.getDescription())
                 .price(entity.getPrice())
                 .stock(entity.getStock())
+                .imageUrl(entity.getImageUrl())
                 .build();
     }
 }

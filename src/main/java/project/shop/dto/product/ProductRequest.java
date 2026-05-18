@@ -29,4 +29,6 @@ public class ProductRequest {
     @NotNull(message = "Stock cannot be null")
     @Min(value = 0, message = "Stock cannot be negative")
     private Integer stock;
+
+    private String imageUrl;
 }
